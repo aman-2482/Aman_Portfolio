@@ -51,7 +51,7 @@ const Hero = () => {
           transition={{ duration: 0.5, delay: 0.7 }}
         >
           <a href="#contact" className="btn btn-primary">Hire Me</a>
-          <a href="/resume.pdf" download="Aman_Chaudhary_Resume.pdf" className="btn btn-outline"><FaDownload /> Resume</a>
+          <a href="/images/Aman_resume.pdf" download="Aman_Chaudhary_Resume.pdf" className="btn btn-outline"><FaDownload /> Resume</a>
         </motion.div>
         
         <motion.div 
