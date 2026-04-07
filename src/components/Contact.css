@@ -206,3 +206,12 @@
     gap: 3rem;
   }
 }
+
+.footer {
+  text-align: center;
+  padding: 4rem 1.5rem 2rem;
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+  border-top: 1px solid var(--glass-border);
+  margin-top: 4rem;
+}

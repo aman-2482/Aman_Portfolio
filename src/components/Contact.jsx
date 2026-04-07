@@ -124,7 +124,7 @@ const Contact = () => {
                       {formState === 'sending' ? (
                         <span className="loader"></span>
                       ) : (
-                        <><FaPaperPlane /> Send Message Ratio</>
+                        <><FaPaperPlane /> Send Message</>
                       )}
                     </button>
                   </form>
